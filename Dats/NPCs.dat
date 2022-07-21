@@ -1,52 +1,46 @@
 ' TIPOS NPC
-' 0: Npcs comunes										                                     
-' 1: Puede resucitar                                                     
-' 2: Guardia                                                             
-' 3: Puede entrenar                                                      
-' 4: Banqueros                                                           
-' 5: Armadas                                                             
-' 6: Dragones                                                            
-' 7: Cirujanos                                                           
-' 8: Vendecaballos                                                       
-' 9: Caballos                                                            
-' 10: Juzgado                                                            
-' 11: ObjetosSagrados                                                    
-' 12: Transportes                                                        
-' 13: Organizador quest                                                  
-' 14: Npc quest                                                          
-' 15: Vendeunicornios                                                    
-' 16: Unicornios                                                         
-' 17: Guardias Caos                                                      
-' 18: Matrimonio                                                         
-' 19: Resucita Mascota                                                   
-' 20: Cambia barco Real                                                  
-' 21: Cambia barco Caos                                                  
-' 22: Torneo                                                             
-' 23: Casino                                                             
-' 24: Regala Mascota                                                     
-' 25: Carcelero                                                          
-' 26: Cambia barco Nemesis                                               
-' 27: Subastador                                                         
-' 28: Organizador quest                                                  
-' 29: Cambia barco Templario                                             
-' 30: Quest                                                              
-' 31: Chismoso                                                           
-' 32: Caballo                                                            
-' 33: Guerra Master                                                      
-' 34: Propiedades                                                        
-' 35: AoM Creditos                                                       
-' 36: AoM Canjes                                                         
-' 37: Torneo Pareja                                                      
-' 38: Batalla de medusas                                                 
-' 39: Bola                                                               
-' 40: Sr quest                                                           
-' 41: Sr quest misiones                                                  
-' 42: Banquero clan                                                      
-' 50: RespawBichos                                                       
-' 54: Olvidar Hechizos                                                   
-' 60: Monturas                                                           
-' 90: No Mejora                                                          
-
+' 0====== NPCS COMUNES
+' 1====== PUEDE RESUCITAR
+' 2====== GUARDIA
+' 3====== PUEDE ENTRENAR
+' 4====== BANQUEROS
+' 5====== Armadas
+' 6====== DRAGONES
+' 7====== CIRUJANOS
+' 8====== VENDECABALLOS
+' 9====== CABALLOS
+' 10===== JUZGADO
+' 11===== NAVEGANTES
+' 12===== Transportes
+' 13===== ORGANIZADOR QUEST
+' 14===== NPC QUEST
+' 15====== VENDEUNICORNIOS
+' 16====== UNICORNIOS
+' 17====== GUARDIASCAOS
+' 18====== Matrimonio
+' 19====== Cabezas dragon
+' 20====== Cambia BArco Real
+' 21====== Cambia BArco Caos
+' 22====== Duelos
+' 23====== Casino
+' 24====== Torneo
+' 25====== Chismoso
+' 26====== Cambia BArco Caos
+' 27====== Subastador
+' 28====== Organizador Quest
+' 29====== Cambia BArco Nemesis
+' 30====== Tienda
+' 31====== Chismosa
+' 32====== Caballo Marron
+' 33====== Dueling Master
+' 34====== Rey de los Demonios
+' 35====== Rey de los Angeles
+' 36====== Medusa Corsaria
+' 37====== Medusa Pirata
+' 38====== Batalla de Medusas
+' 39====== Bola
+' 40====== Sr Quest
+' 41====== Sr Quest Misiones
 
 [INIT]
 NumNPCs=305

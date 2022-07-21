@@ -1,6 +1,5 @@
 Type=Exe
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\SysWow64\stdole2.tlb#OLE Automation
-Object={831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.2#0; Mscomctl.ocx
 Form=Codigo\Formulario\FrmMain.frm
 Module=steroids; Codigo\Modulos\steroids.bas
 Module=Declares; Codigo\Modulos\Declares.bas
@@ -18,6 +17,7 @@ UserControl=Codigo\controldeusuario\ucProgressCircular.ctl
 PropertyPage=Codigo\paginas de propiedad\ppProgressCircular.pag
 UserControl=Codigo\controldeusuario\uAOCheckbox.ctl
 UserControl=Codigo\controldeusuario\uAOButton.ctl
+Object={831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0; MSCOMCTL.OCX
 IconForm="FrmMain"
 Startup="Sub Main"
 HelpFile=""
